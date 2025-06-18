@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc = new Scanner (System.in);
+		int	bird1=0,bird2=19;
+		int status=1;
+	      int x=0;
+	      if((10>2) && (10/x)>2){
+	          System.out.println("Good");
+	      }
+	}
+}
